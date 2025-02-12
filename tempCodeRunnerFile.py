@@ -1,1 +1,3 @@
-1. Celsius to Fahrenheit
+0:
+#     x = -b/(2*a)
+#     print("\nRoot is: ", x)
